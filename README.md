@@ -28,7 +28,7 @@ Le set de données proposé dérive de ces données extraites quotidiennement.
 
 ### Influencers
 
-Ce [fichier](../data/influencers.csv) correspond à un extrait des influencers inscrits sur YOÔ. Il comprend pour chaque ligne:
+Ce [fichier](/data/influencers.csv) correspond à un extrait des influencers inscrits sur YOÔ. Il comprend pour chaque ligne:
 
 - `id`: L'identifiant de l'influencer
 - `sex`: Le sexe de l'influencer
@@ -47,7 +47,7 @@ NB: Les 2 jeux de données, `influencers` et `hashtags`, sont indépendants ! Il
 
 ### Hashtags
 
-Ce [fichier](../data/hashtags.csv) correspond à un extrait des hashtags récupérés. Il comprend pour chaque ligne:
+Ce [fichier](/data/hashtags.csv) correspond à un extrait des hashtags récupérés. Il comprend pour chaque ligne:
 
 - `post_id` : L'identifiant du post Instagram contenant de hashtag
 - `hashtag` : Le hashtag récupéré
